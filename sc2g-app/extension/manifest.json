@@ -1,0 +1,10 @@
+{
+  "name": "SoundCloud2Gether",
+  "version": "0.1",
+  "description": "Let's you listen along with your friends on SoundCloud!",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
